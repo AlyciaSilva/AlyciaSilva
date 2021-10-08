@@ -13,10 +13,14 @@
   <img aligh = "center" alt = "Aly-C" height = "40" width = "90" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img aligh = "center" alt = "Aly-Java" height = "40" width = "90" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img aligh = "center" alt = "Aly-Bootstrap" height = "40" width = "90" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
-  <img aligh = "right" height = "200" width = "300" alt = "Aly-Doctor" src = "https://media4.giphy.com/media/SuIyXbcCE76MbePBYm/giphy.gif?cid=790b76111c02e3eb3597a3a8f0f9f2282893d7c2f67a62bc&rid=giphy.gif&ct=g">
+  <img aligh = "right" height="150" style="border-radius:50px; alt = "Aly-Doctor" src = "https://media4.giphy.com/media/SuIyXbcCE76MbePBYm/giphy.gif?cid=790b76111c02e3eb3597a3a8f0f9f2282893d7c2f67a62bc&rid=giphy.gif&ct=g">
 </div> <br>
   
 <div>
-  <a href = "www.linkedin.com/in/alycia-lima-" target = "_blanck"><img scr = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target = "_blanck"/></a>
-  <a href = "alycialima@gmail.com" target = "_blanck"><img scr = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target = "_blanck"/></a>
+  <div> 
+  <a href = "alycialima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alycia-lima-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+![Snake animation](https://github.com/AlyciaSilva/AlyciaSilva/blob/output/github-contribution-grid-snake.svg)
+ 
 <div>
