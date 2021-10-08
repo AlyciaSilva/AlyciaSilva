@@ -3,8 +3,8 @@
 - 😄 Pronouns: She/Her
 <div> 
   <a href = "www.linkedin.com/in/alycia-lima-">  
-  <img height = "100em" src = "https://github-readme-stats.vercel.app/api?username=AlyciaSilva&show_icons=true&&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlyciaSilva&layout=compact&langs_count=16&theme=dracula"/>
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api?username=AlyciaSilva&show_icons=true&&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AlyciaSilva&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style = "display: inline_block"> <br>
   <img aligh = "center" alt = "Aly-python" height = "40" width = "90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
