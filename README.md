@@ -1,5 +1,5 @@
 # Hello there!
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning C#
 - 😄 Pronouns: She/Her
 
 
@@ -25,7 +25,10 @@
   <a href="https://www.linkedin.com/in/alycia-lima-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 
-![Snake animation](https://github.com/AlyciaSilva/AlyciaSilva/blob/output/github-contribution-grid-snake.svg)
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div>
